@@ -1,2 +1,2 @@
-#   Prognozowanie cen samochodów 
+#   Prediction car prices
 
